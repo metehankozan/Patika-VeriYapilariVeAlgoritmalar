@@ -13,7 +13,7 @@ Algoritma her seferinde dizinin elemanlarını öncesindeki elemanlar ile karş�
 |22|27|16|2|18|6|     
 |- |- |- |-|- |-|
     
-3 - Sıradaki 16 sayısı ile gerisindeki sayıları kıyaslarız. 16 hem 27'den hem de 22'den küçük olduğu için bu iki sayı bir sağa kaydırılır ve 16 en başa geçer.
+3 - Sıradaki 16 sayısı ile gerisindeki sayıları kıyaslarız. 16 hem 27'den hem de 22'den küçük olduğu için bu iki sayı bir sağa kaydırılır ve 16 en başa geçer.\
 16
 &darr;
 |  |22|27|2|18|6|-->|16|22|27|2|18|6| 
