@@ -52,4 +52,36 @@ Algoritma her seferinde dizinin elemanlarını öncesindeki elemanlar ile karş�
 | |&darr;| | | | |
 |2|  |16|18|22|27|
 
+##### 2. Big-O gösterimini yazınız.
+Insertion sort için -> O(n^2)
+
+##### 3. Time Complexity: 
+###### - Worst case: Aradığımız sayının sonda olması
+
+###### - Average case: Aradığımız sayının ortada olması
+
+###### - Best case: Aradığımız sayının dizinin en başında olması
+
+##### 4. Dizi sıralandıktan sonra 18 sayısı hangi case kapsamına girer? Yazınız.
+18 elimizdeki listede orta sıralarda olduğu için **average case** diyebiliriz.
+    
+#### 2. [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
+1.
+|7|3|5|8|2|9|4|15|6|      
+|-|-|-|-|-|-|-|- |-|
+2.
+|3| | | | | | |  | |
+|-|-|-|-|-|-|-|- |-|
+|&darr;| | | | | ||||
+|  |7|5|8|2|9|4|15|6|      
+
+3.
+| |5| | | | | |  | |
+|-|-|-|-|-|-|-|- |-|
+||&darr;| | | | | |||
+|3| |7|8|2|9|4|15|6|
+
+4.
+|3|5|7|8|2|9|4|15|6|      
+|-|-|-|-|-|-|-|- |-|
  
