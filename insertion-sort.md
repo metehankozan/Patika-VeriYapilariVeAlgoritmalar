@@ -40,14 +40,12 @@ Algoritma her seferinde dizinin elemanlarını öncesindeki elemanlar ile karş�
 |2|16|  |22|27|6|
 
    
-6- 6 ile bir gerisindeki sayıyı kıyaslanır. 6 27-22-18-16 sayılarından küçük olduğu için bu sayılar sırası ile bir sağa kaydırılır. 6 2'den büyük olduğundan son kaydırılan 16'nın yerini alır.
+6 - 6 ile bir gerisindeki sayıyı kıyaslanır. 6 27-22-18-16 sayılarından küçük olduğu için bu sayılar sırası ile bir sağa kaydırılır. 6 2'den büyük olduğundan son kaydırılan 16'nın yerini alır.
 |2 |16|18|22|- |27|-->|2 |16|18| |22|27|-->|2 |16|- |18|22|27|
 |- |- |- |- |- |- |---|- |- |- |-|- |- |---|- |- |- |- |- |- |
     
 |-->|2 |- |16|18|22|27|
 |---|- |- |- |- |- |- |
-
-</td><td>
 
 | |6     | | | | |
 |-|-     |-|-|-|-|
